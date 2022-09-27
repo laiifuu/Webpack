@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/laiifuu/Webpack/issues"
   },
-  "homepage": "https://github.com/laiifuu/Webpack#readme"
+  "homepage": "https://github.com/laiifuu/Webpack#readme",
+  "devDependencies": {
+    "webpack": "^5.74.0",
+    "webpack-cli": "^4.10.0"
+  }
 }
